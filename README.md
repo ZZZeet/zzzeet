@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Too lazy to modify it. Bye 👋
 
 <!--
 **ZZZeet/zzzeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
