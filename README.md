@@ -7,15 +7,6 @@
 
 ---
 
-### 🏆 Milestones & Achievements
-
-<!-- 紧凑单行奖杯 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zzzeet&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📊 Tech Stats & Languages
 
 <!-- 核心数据与常用语言：高度自适应居中并列 -->
