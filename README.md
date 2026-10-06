@@ -1,11 +1,7 @@
 <!-- 顶部横幅与主标语 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello%2C%20World!&fontSize=50&animation=fadeIn" width="100%" />
-
-  <br/>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Wandering+%26+Tinkering." alt="Wandering & Tinkering" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Wandering+%26+Tinkering" alt="Wandering & Tinkering" />
   </a>
 </div>
 
